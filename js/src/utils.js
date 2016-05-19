@@ -1,5 +1,4 @@
 /* global NexT: true */
-
 NexT.utils = NexT.$u = {
   /**
    * Wrap images with fancybox support.
@@ -205,4 +204,3 @@ NexT.utils = NexT.$u = {
     return this.isPisces();
   }
 };
-</div></=></div></div>
